@@ -1,0 +1,59 @@
+/*
+*{font-size:100px; padding:0; color: red}*/
+
+
+
+
+input[type=text],[type=number],[type=e-mail],[type=submit]{
+  width: 80%;
+  padding: 15px;
+  margin: 10px 0 2px 0;
+  display: inline-block;
+  background: none;
+  border-radius: 10px;
+  border:2px solid #f1f1f1:
+  
+}
+input[type=submit]{
+  width: 100px;
+  height:50px; 
+  padding: 5px;
+  display: inline-block;
+  background:linear-gradient(to bottom, #2E9AFE, #08088A);
+  border-radius: 10px;
+  border:2px solid #f1f1f1;
+  color: white;
+  font-size: 20px;
+ 
+}
+
+textarea{
+  width: 80%;
+  height:60%; 
+  padding: 15px;
+  margin: 10px 0 2px 0;
+  display: inline-block;
+  
+  background: none;
+  border-radius: 10px;
+  border:2px solid #f1f1f1:
+  
+}
+table{
+	width: 50%;
+	
+	 border:1px solid #f1f1f1:
+	 
+	
+}
+
+h1{color:#81F781;font-size:20px;font-family;tahoma}
+	p{color:green,font-size:160px;font-family:tahoma}
+	label{width:50%;}
+	
+	
+	Anpare
+	Linnus
+	Volta
+	
+	
